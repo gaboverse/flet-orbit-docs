@@ -1,3 +1,3 @@
 ![flet-orbit](./assets/img/flet-orbit-logo-light.png)
 
-> An opinionated workflow for Flet apps
+> flet-orbit is a dockerized fully-equipped development toolset for Flet.
