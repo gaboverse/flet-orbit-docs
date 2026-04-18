@@ -4,11 +4,15 @@ theme:
   name: material
   palette: 
     - scheme: default
+      primary: white
+      accent: light blue
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
     - scheme: slate
       toggle:
+        primary: black
+        accent: light blue
         icon: material/brightness-4
         name: Switch to light mode
   logo: assets/img/flet-orbit-isotype.png
