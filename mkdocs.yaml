@@ -10,9 +10,9 @@ theme:
         icon: material/brightness-7 
         name: Switch to dark mode
     - scheme: slate
+      primary: black
+      accent: light blue
       toggle:
-        primary: black
-        accent: light blue
         icon: material/brightness-4
         name: Switch to light mode
   logo: assets/img/flet-orbit-isotype.png
@@ -20,7 +20,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
 nav:
-  - fletflow: index.md
+  - flet-orbit: index.md
   - Getting Started: getting-started.md
   - Project Structure: project-structure.md
   - Makefile: makefile.md
