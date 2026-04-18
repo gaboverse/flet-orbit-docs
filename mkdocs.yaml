@@ -2,8 +2,8 @@ site_name: flet-orbit
 site_url: https://flet-orbit.gabover.se
 theme:
   name: material
-  logo: assets/img/fletflow-isotype-dark.png
-  favicon: assets/img/fletflow-isotype-light.png
+  logo: assets/img/flet-orbit-isotype.png
+  favicon: assets/img/flet-orbit-isotype.png
   palette:
     primary: custom
 extra_css:

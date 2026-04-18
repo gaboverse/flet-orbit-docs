@@ -1,3 +1,3 @@
-![fletflow](./assets/img/fletflow-logo-light.png)
+![flet-orbit](./assets/img/flet-orbit-logo-light.png)
 
 > An opinionated workflow for Flet apps

@@ -9,7 +9,7 @@ Follow this 2 steps and start building your app in less than 5 minutes!
 mkdir my-app && cd my-app
 
 # Generate your project from the copier template:
-copier copy gh:gaboverse/fletflow .
+copier copy gh:gaboverse/flet-orbit .
 ```
 
 Copier requires git to mantain your project, so it is recommended to create a repo (e.g.: GitHub, GitLab, BitBucket) and run:
@@ -23,7 +23,7 @@ git init
 
 # Add, commit and push!
 git add .
-git commit -m "Fletflow: Initial commit"
+git commit -m "Flet Orbit: Initial commit"
 git push origin main  # or whatever
 ```
 ## 2. Setup the app
